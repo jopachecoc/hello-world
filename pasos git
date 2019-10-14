@@ -1,0 +1,14 @@
+
+
+
+
+:~$ git clone https://github.com/jopachecoc/hello-world.git
+:~$ cd hello world
+:~/hello-world$ git remote
+:~/hello-world$ git remote -v
+:~/hello-world$ git pull jonas master
+:~/hello-world$ git fetch jonas master
+:~/hello-world$ git add .
+:~/hello-world$ git commit -m "tq"
+:~/hello-world$ git push jonas master
+
