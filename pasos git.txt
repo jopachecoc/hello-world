@@ -1,0 +1,92 @@
+
+ 
+
+https://pcottle.github.io/learnGitBranching/?NODEMO
+
+ 
+
+ 
+
+              git cherry-pick C2 C3
+
+ 
+
+ 
+
+git branch bugFix
+
+git commit
+
+git checkut master
+
+git commit
+
+it re
+
+ 
+
+ 
+
+ 
+
+git
+
+ 
+
+pwd muestra donde estoy parado
+
+ 
+
+ 
+
+ 
+
+Git pasos
+
+ 
+
+ 
+
+pararse en el proyecto con cd and pwd and ls
+
+ 
+
+1. Enrutar el proyecto jalando la carpeta del proyecto
+
+2.
+
+ 
+
+ 
+
+git config --global user.email "pachjona@colpatria.com"
+
+git config --global user.name "jonathan"
+
+git config --global core.editor
+
+git config -l
+
+ 
+
+git init myproyect: to start your proyect
+
+git status : to watch what file i work
+
+git add app.js : to add app.js a stage area
+
+ 
+
+ 
+
+ 
+
+asegurar el impacto en los diferentes impactos e
+
+implementacion y monoitoreo, Gerente de planeacion.
+
+ 
+
+ 
+
+19 al 25 agosto
